@@ -1,44 +1,25 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Vedant%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Hackathon%20Builder&descAlignY=58&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🤖+Building+AI+Powered+Applications;💡+Turning+Ideas+Into+Products;🏆+Hackathon+Enthusiast;⚡+Learning+System+Design+%26+Cloud;🌍+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🤖+Building+AI+Powered+Applications;💡+Turning+Ideas+Into+Products;🏆+Hackathon+Participant;⚡+Exploring+LLMs,+RAG+%26+AI+Agents;🌍+Open+Source+Learner" />
 </p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vedant Dubey</h1>
 
-<img src="https://komarev.com/ghpvc/?username=vedantdubey19&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/vedantdubey19?label=Followers&style=for-the-badge"/>
-
-</div>
-
-# 👋 Hi, I'm Vedant Dubey
-
-### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
-
-I'm passionate about building impactful products, scalable web applications, and AI-powered solutions. I enjoy transforming ideas into real-world projects while continuously learning modern technologies.
+<p align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🤖 Exploring AI, Machine Learning, LLMs & RAG
-- ⚙️ Interested in Backend Development & System Design
+- 💻 Building full-stack applications and AI-powered solutions
+- 🤖 Exploring Artificial Intelligence, LLMs, RAG, and AI Agents
+- ⚙️ Interested in Backend Engineering & System Design
 - 🏆 Active Hackathon Participant
-- 🌱 Learning Cloud Technologies & AI Agents
+- 🌱 Learning Cloud Technologies and Scalable Architectures
 - 📍 India
-
----
-
-## 🌱 Currently Learning
-
-- Artificial Intelligence & Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- System Design
-- Cloud Computing
-- Native iOS Development (SwiftUI)
 
 ---
 
@@ -62,7 +43,7 @@ I'm passionate about building impactful products, scalable web applications, and
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
@@ -82,7 +63,7 @@ I'm passionate about building impactful products, scalable web applications, and
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
 - 🚀 Secure a Software Engineering Internship
 - 🤖 Build Production-Ready AI Applications
@@ -90,16 +71,6 @@ I'm passionate about building impactful products, scalable web applications, and
 - 🌍 Contribute to Open Source
 - 📈 Strengthen DSA & Problem Solving
 - 💡 Build Products Used by Thousands
-
----
-
-## 📈 What I'm Working On
-
-- Building AI-powered applications
-- Learning LLMs and AI Agents
-- Improving backend architecture skills
-- Exploring cloud technologies
-- Creating impactful real-world projects
 
 ---
 
@@ -119,15 +90,14 @@ I'm passionate about building impactful products, scalable web applications, and
 
 - LinkedIn: www.linkedin.com/in/vedant-dubey-a9697b278
 - LeetCode: leetcode.com/u/user6315EP
-- GitHub: github.com/vedantdubey19
 
 ---
 
 <div align="center">
 
-## 🚀 Code • Build • Learn • Repeat
+### 🚀 Build • Learn • Ship • Repeat
 
-*"Always learning, building, and exploring the future of technology."*
+*"The best way to learn is by building."*
 
 </div>
 
