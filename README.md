@@ -1,90 +1,184 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Backend%20%26%20AI%20Engineer&fontSize=35&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Vedant%20Dubey&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=⚙️+Building+Scalable+Backend+Systems;🤖+Exploring+AI%2FML+%26+LLM+Integrations;🛠️+Node.js+%7C+Go+%7C+Express+%7C+MongoDB;🚀+Hackathon+Backend+Engineer+%26+SDK+Author;✨+Dream+Big.+Build+Bigger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=🚀+Backend+Engineer+%7C+Full+Stack+Developer;🤖+Exploring+AI%2FML+and+LLMs;⚙️+Building+Scalable+Applications;🏆+Hackathon+Builder;✨+Dream+Big.+Build+Bigger." />
 </p>
 
-# Hi 👋, I'm Vedant Dubey
+<h1 align="center">Hi 👋, I'm Vedant Dubey</h1>
 
-🚀 Backend Engineer | Full-Stack Developer | AI/ML Explorer
-🛠️ Building scalable systems with Node.js, Go, and Express
-🤖 Integrating AI into real products using the Claude API
-🏆 Hackathon participant — backend engineer & SDK author
-📍 Based in India
+<h3 align="center">Backend Engineer • Full Stack Developer • AI Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/vedantdubey19">
+    <img src="https://komarev.com/ghpvc/?username=vedantdubey19&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer passionate about building impactful products
+- ⚙️ Interested in Backend Development & System Design
+- 🤖 Exploring AI/ML, LLMs, RAG, and Agentic AI
+- 🏆 Active Hackathon Participant
+- 🌱 Constantly learning new technologies
+- 📍 India
 
 ---
 
 ## 🌱 Currently Learning
 
-* Deep Learning & PyTorch
-* Computer Vision (YOLOv8, CLIP)
-* AI System Design & Agentic AI
-* Native iOS Development (Swift/SwiftUI)
-* MLOps & Model Deployment
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- System Design
+- Cloud Computing
+- Native iOS Development (SwiftUI)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,swift" />
-</p>
+### Languages
 
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
 </p>
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
 ### AI / ML
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 NexChat
+AI-powered real-time communication platform with authentication, messaging, and modern UI.
+
+### 🌱 Carbon Footprint Tracker
+Platform helping users track and understand environmental impact.
+
+### ✈️ TripNest
+Smart travel planning and management platform.
+
+### 🤖 StudyAI
+AI-powered educational assistant for students.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdubey19&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantdubey19&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantdubey19&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/user6315EP?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-* Land a high-paying role in AI/ML or Full-Stack Engineering
-* Ship SafeReach — AI-powered nighttime safety routing system
-* Master computer vision and time-series modeling
-* Build a strong, recruiter-ready portfolio
-* Contribute to open-source backend/AI projects
-
----
-
-## 📂 Featured Projects
-
-🔹 **Pulse AI** — SaaS API monitoring & incident detection with AI-powered root cause analysis (Go + MongoDB + React + Claude API)
-🔹 **SafeReach** — AI-driven nighttime safety routing using YOLOv8, CLIP & PyTorch *(In Progress)*
-🔹 **TripNest** — Travel listing platform, being rebuilt as a native iOS app (SwiftUI + MapKit)
-🔹 **EcoTrace** — Carbon Footprint Awareness Platform (interactive SPA)
-🔹 **Outreach Pipeline** — Automated cold outreach CLI tool (Node.js)
+- 🚀 Secure a Software Engineering Internship
+- 🤖 Build Production-Ready AI Applications
+- ⚙️ Master Backend Development & System Design
+- 🌍 Contribute to Open Source
+- 📈 Strengthen Data Structures & Algorithms
+- 💡 Build Products Used by Thousands
 
 ---
 
 ## 📈 What I'm Working On
 
-* Building production-ready backend & AI systems
-* Strengthening computer vision and ML fundamentals
-* Refining system design and architecture skills
-* Exploring AI-assisted development tools (Antigravity, Stitch)
+- AI-powered applications
+- Full Stack Development projects
+- Learning AI Agents & RAG systems
+- Improving System Design knowledge
+- Exploring Cloud Technologies
 
 ---
 
-⭐ Always learning, building, and exploring the future of tech.
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vedant-dubey-a9697b278/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/vedantdubey19" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+- LinkedIn: https://www.linkedin.com/in/vedant-dubey-a9697b278/
+- LeetCode: https://leetcode.com/u/user6315EP/
+
+---
+
+<div align="center">
+
+### 🚀 Code • Build • Learn • Repeat
+
+*"Always learning, building, and exploring the future of technology."*
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
