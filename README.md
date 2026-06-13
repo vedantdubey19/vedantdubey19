@@ -1,28 +1,32 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Vedant%20Dubey&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Vedant%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Hackathon%20Builder&descAlignY=58&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=🚀+Backend+Engineer+%7C+Full+Stack+Developer;🤖+Exploring+AI%2FML+and+LLMs;⚙️+Building+Scalable+Applications;🏆+Hackathon+Builder;✨+Dream+Big.+Build+Bigger." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+Developer;🤖+Building+AI+Powered+Applications;💡+Turning+Ideas+Into+Products;🏆+Hackathon+Enthusiast;⚡+Learning+System+Design+%26+Cloud;🌍+Open+Source+Contributor" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vedant Dubey</h1>
+<div align="center">
 
-<h3 align="center">Backend Engineer • Full Stack Developer • AI Enthusiast</h3>
+<img src="https://komarev.com/ghpvc/?username=vedantdubey19&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<p align="center">
-  <a href="https://github.com/vedantdubey19">
-    <img src="https://komarev.com/ghpvc/?username=vedantdubey19&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+<img src="https://img.shields.io/github/followers/vedantdubey19?label=Followers&style=for-the-badge"/>
+
+</div>
+
+# 👋 Hi, I'm Vedant Dubey
+
+### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+
+I'm passionate about building impactful products, scalable web applications, and AI-powered solutions. I enjoy transforming ideas into real-world projects while continuously learning modern technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building impactful products
+- 💻 Full Stack Developer
+- 🤖 Exploring AI, Machine Learning, LLMs & RAG
 - ⚙️ Interested in Backend Development & System Design
-- 🤖 Exploring AI/ML, LLMs, RAG, and Agentic AI
 - 🏆 Active Hackathon Participant
-- 🌱 Constantly learning new technologies
+- 🌱 Learning Cloud Technologies & AI Agents
 - 📍 India
 
 ---
@@ -43,94 +47,37 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-### Databases
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
 ### AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 💬 NexChat
-AI-powered real-time communication platform with authentication, messaging, and modern UI.
-
-### 🌱 Carbon Footprint Tracker
-Platform helping users track and understand environmental impact.
-
-### ✈️ TripNest
-Smart travel planning and management platform.
-
-### 🤖 StudyAI
-AI-powered educational assistant for students.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdubey19&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantdubey19&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedantdubey19&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎯 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/user6315EP?theme=dark&font=baloo&ext=contest" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
 </p>
 
 ---
@@ -139,46 +86,49 @@ AI-powered educational assistant for students.
 
 - 🚀 Secure a Software Engineering Internship
 - 🤖 Build Production-Ready AI Applications
-- ⚙️ Master Backend Development & System Design
+- ⚙️ Master System Design
 - 🌍 Contribute to Open Source
-- 📈 Strengthen Data Structures & Algorithms
+- 📈 Strengthen DSA & Problem Solving
 - 💡 Build Products Used by Thousands
 
 ---
 
 ## 📈 What I'm Working On
 
-- AI-powered applications
-- Full Stack Development projects
-- Learning AI Agents & RAG systems
-- Improving System Design knowledge
-- Exploring Cloud Technologies
+- Building AI-powered applications
+- Learning LLMs and AI Agents
+- Improving backend architecture skills
+- Exploring cloud technologies
+- Creating impactful real-world projects
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vedant-dubey-a9697b278/" target="_blank">
+
+<a href="https://www.linkedin.com/in/vedant-dubey-a9697b278/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/vedantdubey19" target="_blank">
+<a href="https://github.com/vedantdubey19">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
 
-- LinkedIn: https://www.linkedin.com/in/vedant-dubey-a9697b278/
-- LeetCode: https://leetcode.com/u/user6315EP/
+- LinkedIn: www.linkedin.com/in/vedant-dubey-a9697b278
+- LeetCode: leetcode.com/u/user6315EP
+- GitHub: github.com/vedantdubey19
 
 ---
 
 <div align="center">
 
-### 🚀 Code • Build • Learn • Repeat
+## 🚀 Code • Build • Learn • Repeat
 
 *"Always learning, building, and exploring the future of technology."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,100:2563eb"/>
