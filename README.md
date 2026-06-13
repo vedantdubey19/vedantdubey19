@@ -89,7 +89,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </p>
 
 - LinkedIn: www.linkedin.com/in/vedant-dubey-a9697b278
-- LeetCode: leetcode.com/u/user6315EP
+- LeetCode: https://leetcode.com/u/user6315EP/
 
 ---
 
