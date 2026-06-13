@@ -1,71 +1,90 @@
-<h1 align="center">Hi there, I'm Vedant Dubey 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Backend%20%26%20AI%20Engineer&fontSize=35&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
-  <a href="https://github.com/vedantdubey19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+AI%2FML+Enthusiast;Full-Stack+Developer;Building+scalable+systems+with+Node.js+%26+Go;Hackathon+SDK+Author" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=⚙️+Building+Scalable+Backend+Systems;🤖+Exploring+AI%2FML+%26+LLM+Integrations;🛠️+Node.js+%7C+Go+%7C+Express+%7C+MongoDB;🚀+Hackathon+Backend+Engineer+%26+SDK+Author;✨+Dream+Big.+Build+Bigger." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantdubey19&style=flat-square&color=blueviolet" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/vedantdubey19?label=Followers&style=flat-square&color=blue" alt="followers"/>
+# Hi 👋, I'm Vedant Dubey
+
+🚀 Backend Engineer | Full-Stack Developer | AI/ML Explorer
+🛠️ Building scalable systems with Node.js, Go, and Express
+🤖 Integrating AI into real products using the Claude API
+🏆 Hackathon participant — backend engineer & SDK author
+📍 Based in India
+
+---
+
+## 🌱 Currently Learning
+
+* Deep Learning & PyTorch
+* Computer Vision (YOLOv8, CLIP)
+* AI System Design & Agentic AI
+* Native iOS Development (Swift/SwiftUI)
+* MLOps & Model Deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,swift" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🎯 Current Goals
 
-**[Pulse AI](#)** — SaaS API monitoring & incident detection
-- Go backend on Railway, MongoDB, Express SDK on npm
-- AI-powered root cause analysis using Claude API
-- React/Vite dashboard with real-time WebSocket events
-
-**[SafeReach](#)** — AI-powered nighttime safety routing system
-- Computer vision (YOLOv8, CLIP) for automated road safety scoring
-- Time-series crime/crowd modeling with PyTorch
-- FastAPI + PostGIS/pgRouting + Mapbox GL + React Native
-
-**[TripNest](#)** — Travel listing platform
-- Node.js, Express, MongoDB, EJS → being rebuilt as native iOS app (SwiftUI, MVVM, MapKit)
-
-**[EcoTrace](#)** — Carbon Footprint Awareness Platform (interactive SPA)
+* Land a high-paying role in AI/ML or Full-Stack Engineering
+* Ship SafeReach — AI-powered nighttime safety routing system
+* Master computer vision and time-series modeling
+* Build a strong, recruiter-ready portfolio
+* Contribute to open-source backend/AI projects
 
 ---
 
-### 🛠️ Tech Stack
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,express,mongodb,react,python,pytorch,swift,js,ts,git,docker" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdubey19&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+🔹 **Pulse AI** — SaaS API monitoring & incident detection with AI-powered root cause analysis (Go + MongoDB + React + Claude API)
+🔹 **SafeReach** — AI-driven nighttime safety routing using YOLOv8, CLIP & PyTorch *(In Progress)*
+🔹 **TripNest** — Travel listing platform, being rebuilt as a native iOS app (SwiftUI + MapKit)
+🔹 **EcoTrace** — Carbon Footprint Awareness Platform (interactive SPA)
+🔹 **Outreach Pipeline** — Automated cold outreach CLI tool (Node.js)
 
 ---
 
-### 🐍 Contribution Snake
+## 📈 What I'm Working On
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedantdubey19/vedantdubey19/output/github-contribution-grid-snake.svg" />
-</p>
+* Building production-ready backend & AI systems
+* Strengthening computer vision and ML fundamentals
+* Refining system design and architecture skills
+* Exploring AI-assisted development tools (Antigravity, Stitch)
 
 ---
 
-### 📫 Connect with me
+⭐ Always learning, building, and exploring the future of tech.
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
