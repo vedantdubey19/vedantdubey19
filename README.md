@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Vedant+Dubey;AI+Engineer+•+LLM+Developer;Building+Production+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Vedant+Dubey;AI+Engineer+%E2%80%A2+LLM+Developer;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vedantdubey.1302@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
 &nbsp;&nbsp;
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vedantdubey19&style=flat-square&color=A78BFA&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=vedantdubey19&style=flat-square&color=FF3B30&label=Profile+Views"/>
 
 </div>
 
@@ -45,10 +45,10 @@ I'm a **Final Year B.Tech (Data Science)** student passionate about building **p
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
@@ -79,29 +79,19 @@ I'm a **Final Year B.Tech (Data Science)** student passionate about building **p
 
 ---
 
-## ⭐ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **Pulse AI** | AI-powered observability platform for intelligent log analysis and root-cause detection. |
-| **AutoDev AI** | Multi-agent AI system that plans, writes, tests, and improves software autonomously. |
-| **HireSense AI** | AI recruitment platform using LLMs and embeddings for resume analysis. |
-| **NexChat** | Real-time chat platform with scalable backend architecture. |
-| **TripNest** | Intelligent travel planning platform with personalized recommendations. |
-| **Noesis** | AI-powered research and knowledge assistant. |
-
----
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&hide_border=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vedantdubey19&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&icon_color=FF3B30&title_color=FF3B30"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=FF3B30"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vedantdubey19&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30"/>
+
+</div>
 
 ---
 
