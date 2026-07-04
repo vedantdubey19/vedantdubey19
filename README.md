@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Vedant+Dubey;AI+Engineer+%E2%80%A2+LLM+Developer;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Vedant;AI+Engineer+%E2%80%A2+LLM+Developer;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,11 +17,6 @@
 <a href="https://github.com/vedantdubey19">
 <img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vedantdubey19&style=flat-square&color=FF3B30&label=Profile+Views"/>
-
 </div>
 
 ---
