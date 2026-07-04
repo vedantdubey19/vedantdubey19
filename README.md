@@ -1,7 +1,9 @@
 <div align="center">
 
+# Hey 👋, I'm Vedant
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Vedant;AI+Engineer+%E2%80%A2+LLM+Developer;Building+Production+AI+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Developer;Building+Production+AI+Systems+🚀" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -12,8 +14,9 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vedant-dubey-a9697b278">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</div>
+</a>
 
+</div>
 ---
 
 ## 🧑‍💻 About Me
