@@ -76,16 +76,15 @@ I'm a **Final Year B.Tech (Data Science)** student passionate about building **p
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&icon_color=FF3B30&title_color=FF3B30"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=FF3B30"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://streak-stats.demolab.com?user=vedantdubey19&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vedantdubey19&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🌱 Currently Exploring
