@@ -12,11 +12,6 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vedant-dubey-a9697b278">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/vedantdubey19">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
 </div>
 
 ---
