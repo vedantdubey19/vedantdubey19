@@ -8,51 +8,81 @@ AI Engineer • LLM Developer • Backend Engineer
 Building production-ready AI applications with LLMs, RAG, AI Agents, and scalable backend systems.
 </p>
 
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vedant-dubey-a9697b278">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vedantdubey19">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech (Data Science)
-- 🤖 Passionate about Generative AI and AI Engineering
-- 🧠 Building with LLMs, RAG, LangChain, FastAPI, and Vector Databases
-- ☁️ Learning AI Infrastructure, MLOps, and Cloud Deployment
-- 💡 Open to AI Engineer and Backend Engineer opportunities
+- 🎓 Final Year B.Tech in Data Science
+- 🤖 Passionate about Generative AI, LLMs, and AI Engineering
+- 🧠 Building AI applications with LangChain, FastAPI, RAG, and Vector Databases
+- ☁️ Exploring AI Infrastructure, MLOps, and Cloud Technologies
+- 💼 Open to AI Engineer and Backend Engineer opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**AI**
+### AI & Machine Learning
 
-`Python` `LangChain` `OpenAI` `Ollama` `Hugging Face` `RAG`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-**Backend**
+**AI Technologies**
 
-`FastAPI` `Node.js` `Express` `Java` `Spring Boot`
+`LangChain` • `OpenAI` • `Ollama` • `Hugging Face` • `RAG` • `Prompt Engineering`
 
-**Databases**
+### Backend
 
-`MongoDB` `PostgreSQL` `MySQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
 
-**Cloud & Tools**
+### Databases
 
-`Docker` `AWS` `Git` `GitHub` `Linux`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
+</p>
 
 ---
 
 ## ⭐ Featured Projects
 
 - 🚀 **Pulse AI** — AI-powered observability platform
-- 📄 **AI RAG Assistant** — Chat with documents using LLMs
-- 💬 **NexChat** — Real-time chat application
+- 📄 **AI RAG Assistant** — Intelligent document assistant using RAG
+- 💬 **NexChat** — Real-time chat application with scalable backend
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&hide_border=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedantdubey19&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,8 +97,6 @@ Building production-ready AI applications with LLMs, RAG, AI Agents, and scalabl
 
 ---
 
-## 🤝 Connect
-
-- Portfolio: https://vedant-portfolio-beryl.vercel.app
-- LinkedIn: https://www.linkedin.com/in/vedant-dubey-a9697b278
-- LeetCode: https://leetcode.com/u/user6315EP
+<p align="center">
+<i>Building intelligent systems, one commit at a time.</i>
+</p>
