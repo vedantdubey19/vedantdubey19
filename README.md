@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Generative AI & Machine Learning | Building AI-Powered Products</h3>
 
 <p align="center">
-  B.Tech CSE @ Lloyd Institute of Engineering & Technology • IBM AI/ML Intern • 2027
+  B.Tech CSE Student • IBM AI/ML Intern • 2027
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 * 💼 **AI/ML Intern at IBM** through the **PBEL Program (2025)**, gaining hands-on exposure to practical AI/ML workflows and problem-solving.
 * 🤖 Focused on **Generative AI, LLM applications, RAG, NLP, Machine Learning, and AI-powered automation**, with an emphasis on turning concepts into working products.
 * 🛠️ Built and deployed multiple **end-to-end AI and software projects**, including RAG-based study assistance, AI-powered recruitment, semantic candidate matching, and real-time communication systems.
-* 🎯 **Actively seeking AI/ML, Generative AI, and Software Engineering internship opportunities** where I can contribute to real-world products, learn from experienced engineers, and build scalable intelligent systems.
+* 🎯 **Actively seeking AI/ML, Generative AI, and Software Engineering internship opportunities** where I can contribute to real-world products and build scalable intelligent systems.
 
 ---
 
@@ -69,27 +69,11 @@ Computer Vision • NLP • Generative AI • LLMs • RAG • Transfer Learning
 
 ### 🌟 Featured Projects
 
-#### 📚 [Study_Ai](https://github.com/vedantdubey19/Study_Ai)
-
-**AI-powered study assistant** designed to help users interact with and learn from their study material using modern AI techniques.
-
-**Focus:** RAG • LLM Applications • AI Assistants • Document Intelligence
-
----
-
-#### 🧑‍💼 [HireSense-AI](https://github.com/vedantdubey19/HireSense-AI)
-
-**AI-powered recruitment system** focused on intelligent resume analysis and candidate-job matching using NLP and semantic representations.
-
-**Focus:** NLP • Embeddings • Semantic Matching • AI Recruitment
-
----
-
-#### 💬 [NexChat](https://github.com/vedantdubey19/NexChat)
-
-**Real-time communication application** built to provide modern messaging and interactive communication functionality.
-
-**Focus:** JavaScript • Real-Time Applications • Web Development
+| Project                                                                 | What it does                                                                                                                    | Stack                                          |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 📚 **[Study_Ai](https://github.com/vedantdubey19/Study_Ai)**            | AI-powered study assistant for interacting with study material and generating contextual answers using modern AI/RAG techniques | Python, RAG, LLMs, AI                          |
+| 🧑‍💼 **[HireSense-AI](https://github.com/vedantdubey19/HireSense-AI)** | AI-powered recruitment system for resume analysis and intelligent candidate-job matching using NLP and semantic embeddings      | JavaScript, NLP, Embeddings                    |
+| 💬 **[NexChat](https://github.com/vedantdubey19/NexChat)**              | Real-time communication platform designed for modern messaging and interactive communication                                    | JavaScript, Real-Time Systems, Web Development |
 
 ---
 
@@ -98,7 +82,7 @@ Computer Vision • NLP • Generative AI • LLMs • RAG • Transfer Learning
 **IBM — AI/ML Intern**
 *PBEL Program | 2025*
 
-* Worked through an AI/ML-focused internship program with exposure to practical Artificial Intelligence concepts.
+* Completed an AI/ML-focused internship with exposure to practical Artificial Intelligence concepts.
 * Developed hands-on understanding of machine learning workflows, AI problem-solving, and applied project development.
 
 ---
@@ -123,7 +107,10 @@ Computer Vision • NLP • Generative AI • LLMs • RAG • Transfer Learning
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vedantdubey.1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vedantdubey.1302%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vedantdubey19">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
