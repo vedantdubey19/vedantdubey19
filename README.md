@@ -72,8 +72,6 @@ Computer Vision • NLP • Transfer Learning • Supervised & Unsupervised Lear
 | 📚 **[Study_Ai](https://github.com/vedantdubey19/Study_Ai)**            | RAG-powered study assistant that processes PDFs/textbooks and answers questions grounded in uploaded content                            | Python, RAG, Ollama, Gemini, Groq |
 | 🧑‍💼 **[HireSense-AI](https://github.com/vedantdubey19/HireSense-AI)** | AI-powered recruitment engine that uses NLP and embeddings to screen resumes and rank candidates based on job fit                       | JavaScript, NLP, Embeddings       |
 | 💬 **[NexChat](https://github.com/vedantdubey19/NexChat)**              | Real-time communication platform with messaging, media sharing, and voice/video calling                                                 | JavaScript, Real-time Systems     |
-| 🤖 **AI Interview**                                                     | AI-powered interview preparation and assessment experience designed to help candidates practice and improve their interview performance | AI/ML, LLMs, Web Technologies     |
-
 ---
 
 ### 💡 What I Build
@@ -103,16 +101,6 @@ I focus on building AI systems that move beyond prototypes — combining **model
 
 ---
 
-### 📈 Currently Learning
-
-* 🔹 Retrieval-Augmented Generation (RAG)
-* 🔹 Large Language Model applications
-* 🔹 AI Agents & intelligent workflows
-* 🔹 Embeddings & semantic search
-* 🔹 Production-ready AI systems
-* 🔹 Cloud AI & deployment
-
----
 
 ### 📊 GitHub Stats
 
