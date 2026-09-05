@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Vedant Dubey 👋</h1>
-<h3 align="center">AI Engineer in the making | Building practical AI systems that solve real-world problems</h3>
+
+<h3 align="center">AI Engineer | Generative AI & Machine Learning | Building AI-Powered Products</h3>
 
 <p align="center">
-  B.Tech CSE Student • IBM AI/ML Intern • AI & GenAI Builder
+  B.Tech CSE @ Lloyd Institute of Engineering & Technology • IBM AI/ML Intern • 2027
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedantdubey20">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vedantdubey.1302@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/vedantdubey19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -18,13 +22,11 @@
 
 ### 🚀 About Me
 
-* 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Lloyd Institute of Engineering and Technology**, graduating in **2027**
-* 💼 **AI/ML Intern at IBM** under the **PBEL Program (2025)**
-* 🤖 Aspiring **AI Engineer** focused on building practical, production-oriented AI applications
-* 🧠 Interested in **Generative AI, RAG, NLP, LLM applications, and AI-powered systems**
-* 🔨 I enjoy turning AI concepts into **usable applications rather than just experiments**
-* 📚 Currently deepening my knowledge of **RAG architectures, LLM applications, embeddings, and intelligent automation**
-* 🎯 Open to **AI/ML, Generative AI, and Software Engineering internship opportunities**
+* 🎓 **B.Tech Computer Science & Engineering student** at Lloyd Institute of Engineering & Technology, graduating in **2027**, with a strong focus on Artificial Intelligence and Machine Learning.
+* 💼 **AI/ML Intern at IBM** through the **PBEL Program (2025)**, gaining hands-on exposure to practical AI/ML workflows and problem-solving.
+* 🤖 Focused on **Generative AI, LLM applications, RAG, NLP, Machine Learning, and AI-powered automation**, with an emphasis on turning concepts into working products.
+* 🛠️ Built and deployed multiple **end-to-end AI and software projects**, including RAG-based study assistance, AI-powered recruitment, semantic candidate matching, and real-time communication systems.
+* 🎯 **Actively seeking AI/ML, Generative AI, and Software Engineering internship opportunities** where I can contribute to real-world products, learn from experienced engineers, and build scalable intelligent systems.
 
 ---
 
@@ -61,69 +63,70 @@ Feature Engineering • Model Evaluation • Statistical Analysis • Predictive
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 
 **Core Concepts:**
-Computer Vision • NLP • Transfer Learning • Supervised & Unsupervised Learning • Deep Neural Networks • RAG
+Computer Vision • NLP • Generative AI • LLMs • RAG • Transfer Learning • Deep Learning • Supervised & Unsupervised Learning
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project                                                                 | What it does                                                                                                                            | Stack                             |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| 📚 **[Study_Ai](https://github.com/vedantdubey19/Study_Ai)**            | RAG-powered study assistant that processes PDFs/textbooks and answers questions grounded in uploaded content                            | Python, RAG, Ollama, Gemini, Groq |
-| 🧑‍💼 **[HireSense-AI](https://github.com/vedantdubey19/HireSense-AI)** | AI-powered recruitment engine that uses NLP and embeddings to screen resumes and rank candidates based on job fit                       | JavaScript, NLP, Embeddings       |
-| 💬 **[NexChat](https://github.com/vedantdubey19/NexChat)**              | Real-time communication platform with messaging, media sharing, and voice/video calling                                                 | JavaScript, Real-time Systems     |
----
+#### 📚 [Study_Ai](https://github.com/vedantdubey19/Study_Ai)
 
-### 💡 What I Build
+**AI-powered study assistant** designed to help users interact with and learn from their study material using modern AI techniques.
 
-```text
-AI Applications
-├── Generative AI & LLM Applications
-├── Retrieval-Augmented Generation (RAG)
-├── NLP & Semantic Search
-├── AI-powered Recruitment Systems
-├── Intelligent Study & Interview Assistants
-└── End-to-End ML Applications
-```
-
-I focus on building AI systems that move beyond prototypes — combining **models, APIs, retrieval, application logic, and deployment** into useful products.
+**Focus:** RAG • LLM Applications • AI Assistants • Document Intelligence
 
 ---
 
-### 🏆 Experience
+#### 🧑‍💼 [HireSense-AI](https://github.com/vedantdubey19/HireSense-AI)
 
-**IBM — AI/ML Intern | PBEL Program**
-`2025`
+**AI-powered recruitment system** focused on intelligent resume analysis and candidate-job matching using NLP and semantic representations.
 
-* Completed an AI-focused virtual internship under IBM's PBEL program
-* Strengthened practical understanding of Artificial Intelligence and Machine Learning
-* Applied AI concepts through hands-on learning and project-oriented work
+**Focus:** NLP • Embeddings • Semantic Matching • AI Recruitment
 
 ---
 
+#### 💬 [NexChat](https://github.com/vedantdubey19/NexChat)
 
-### 📊 GitHub Stats
+**Real-time communication application** built to provide modern messaging and interactive communication functionality.
+
+**Focus:** JavaScript • Real-Time Applications • Web Development
+
+---
+
+### 💼 Experience
+
+**IBM — AI/ML Intern**
+*PBEL Program | 2025*
+
+* Worked through an AI/ML-focused internship program with exposure to practical Artificial Intelligence concepts.
+* Developed hands-on understanding of machine learning workflows, AI problem-solving, and applied project development.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdubey19&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantdubey19&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
-
-I'm interested in connecting with **AI/ML engineers, recruiters, founders, and developers** working on interesting AI products and opportunities.
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedantdubey20">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/vedantdubey19">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:vedantdubey.1302@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vedantdubey.1302%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Building AI systems. Learning continuously. Turning ideas into working products.</i>
+  <i>Open to AI/ML & Software Engineering opportunities.</i>
 </p>
