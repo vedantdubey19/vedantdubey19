@@ -1,9 +1,39 @@
-<div align="center"> <table width="100%"> <tr> <td width="64%" valign="middle"> <h1>Hi, I'm Vedant Dubey 👋</h1> <h3>AI Engineer · LLM Systems &amp; Multi-Agent RAG</h3> <p>Ex-IBM AI Intern · CSE '27 · Delhi-NCR</p> <p><strong>● Open to internships and full-time roles in AI and full-stack engineering</strong></p> <p><a href="https://vedantdubey19.github.io/">Website</a> &nbsp;·&nbsp; <a href="https://github.com/vedantdubey19">GitHub</a></p> </td> <td width="36%" valign="middle" align="center"> <img src="https://avatars.githubusercontent.com/u/192400244?v=4" width="160" alt="Vedant Dubey" /> </td> </tr> </table> </div>
-🚀 Featured projects
-<table width="100%"> <tr> <td width="50%" valign="top"><h3><a href="https://github.com/vedantdubey19/Study_Ai">Study_Ai</a></h3><p>RAG-powered study assistant. Upload PDFs and textbooks, then ask questions answered from your own documents, using local Ollama or cloud LLMs.</p><p><sub>Python</sub></p></td> <td width="50%" valign="top"><h3><a href="https://github.com/vedantdubey19/HireSense-AI">HireSense-AI</a></h3><p>AI recruitment engine that uses NLP and embeddings to screen resumes and rank candidates.</p><p><sub>JavaScript</sub></p></td> </tr> <tr> <td width="50%" valign="top"><h3><a href="https://github.com/vedantdubey19/Pulse_AI">Pulse_AI</a></h3><p>AI observability agent that watches API traffic, detects failures, and tells engineers how to fix them.</p><p><sub>Go</sub></p></td> <td width="50%" valign="top"><h3><a href="https://github.com/vedantdubey19/NexChat">NexChat</a></h3><p>Real-time chat app inspired by WhatsApp, with instant messaging, media sharing, and voice and video calls.</p><p><sub>JavaScript</sub></p></td> </tr> </table>
-🛠️ Tech stack
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" /> </p>
-📊 GitHub activity
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantdubey19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=14400" alt="Vedant's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdubey19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" /> </p>
-🤝 Let's connect
-I'm interested in AI products, LLM tooling, and full-stack work. Reach out through my website.
+# Vedant Dubey
+### AI Engineering · Generative AI · RAG · Agentic AI
+
+I build AI applications that connect language models with documents, data and backend systems. My focus is retrieval-augmented generation, agent workflows and practical AI products.
+
+**B.Tech CSE (Data Science), 2027 · Delhi-NCR, India**  
+**Seeking AI Engineering, Generative AI and Machine Learning internships.**
+
+[LinkedIn](https://www.linkedin.com/in/vedantdubey20/) · [Portfolio](https://vedantdubey19.github.io/)
+
+## Selected AI projects
+
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [Study AI](https://github.com/vedantdubey19/Study_Ai) | Document question answering with retrieval, source citations and local or cloud LLMs | Python, Streamlit, ChromaDB, Ollama, Gemini, Groq |
+| [HireSense-AI](https://github.com/vedantdubey19/HireSense-AI) | Resume parsing and semantic matching against job descriptions using embeddings and cosine similarity | Python, FastAPI, Sentence Transformers, PyTorch, Node.js, MongoDB |
+| [Pulse AI](https://github.com/vedantdubey19/Pulse_AI) | API telemetry, sliding-window anomaly detection and LLM-assisted incident analysis; built with a teammate | Go, MongoDB, Groq, React, WebSockets |
+
+Open each repository for architecture, screenshots and setup instructions.
+
+## Engineering experience
+
+At **Axlero Innovative Solutions**, I worked on **Omni-Brain**, a multimodal RAG project for company and financial information. I led a six-member student team and contributed to LangGraph agent workflows, document retrieval and backend integration.
+
+I also contributed to open-source projects through **GirlScript Summer of Code 2026**, working across Python and web codebases.
+
+## Technical focus
+
+- **AI applications:** LLM integration, RAG, embeddings, vector search and LangGraph agent orchestration.
+- **Backend and data:** Python, FastAPI, Go, SQL, MongoDB, Qdrant and ChromaDB.
+- **Development:** Git, GitHub and Docker.
+
+I am strengthening my skills in AI evaluation, deployment and reliable agent workflows through hands-on projects.
+
+## Let's connect
+
+I am interested in internships where I can build useful AI applications, collaborate on engineering problems and learn from experienced teams.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/vedantdubey20/)
