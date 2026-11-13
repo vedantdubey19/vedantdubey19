@@ -46,15 +46,6 @@ I'm passionate about building AI-powered applications using Large Language Model
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-| Platform | Link |
-|---|---|
-| **LinkedIn** | [Vedant Dubey](https://www.linkedin.com/in/vedantdubey20/) |
-| **GitHub** | [vedantdubey19](https://github.com/vedantdubey19) |
-| **Portfolio** | [Visit Portfolio](https://vedantdubey19.github.io/) |
-
 ---
 
 <p align="center">
